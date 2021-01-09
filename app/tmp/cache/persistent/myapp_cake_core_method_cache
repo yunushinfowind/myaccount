@@ -1,0 +1,2 @@
+1610012827
+a:3:{i:0;b:0;s:4:"name";a:7:{s:32:"b9857df768365e42261f05a1434920d8";s:21:"`lotg_myaccount_live`";s:32:"47eb7bb09414c64f779510914712b6ee";s:7:"`count`";s:32:"5c61c133d4f9e272a58d4750bf3b584b";s:10:"`messages`";s:32:"05967d9d0bea3e4795110d4a2f4dc36d";s:26:"`Message`.`message_status`";s:32:"af7ef7f1fdc4ebcedd2a6e6bd0786d74";s:19:"`Message`.`send_to`";s:32:"e64c127b0220516ad6b32e5d59300464";s:9:"`Message`";s:32:"f94a437fb7858e092079378f93ef2c71";s:7:"`users`";}s:6:"fields";a:1:{s:32:"860452c309e921b6fce19e99d2df35c2";a:1:{i:0;s:19:"COUNT(*) AS `count`";}}}
